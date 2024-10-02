@@ -23,5 +23,13 @@ NativeWind (for styling)
 
 Appwrite (Authentication, Databases, Storage)
 
+<img src="https://github.com/user-attachments/assets/073995a8-8de3-4d3f-8ecb-e9060ae84c00" width="250">  &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/580e9d51-074f-4c60-b11b-223493cdd686" width="250"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/2051dea6-79ae-4cc8-94fd-e565d184f87c" width="250"> 
+<br><br>
+<img src="https://github.com/user-attachments/assets/8dcb6c07-2bef-49d6-9efd-de18d3aa0685" width="250">
+
+
+
 
 
